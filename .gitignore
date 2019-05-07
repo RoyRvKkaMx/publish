@@ -1,1 +1,7 @@
 .DS_Store
+ttc/aero-debug.log
+ttc/aero-deploy.tar.gz
+ttc/aerobatic.yml
+endless/aerobatic.yml
+endless/aero-deploy.tar.gz
+endless/aero-debug.log
